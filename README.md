@@ -132,15 +132,4 @@ Enjoy using **MyRouteFinder**! 🚀
 
 ---
 
-### How to Add the README to Your Repository
-
-1. Create a new file in the root of your project directory named `README.md`.
-2. Copy and paste the content above into the file.
-3. Commit and push the changes to your GitHub repository:
-   ```bash
-   git add README.md
-   git commit -m "Add README file"
-   git push origin main
-   ```
-
 This `README.md` will help users understand your project and how to use it. Let me know if you need further assistance!
